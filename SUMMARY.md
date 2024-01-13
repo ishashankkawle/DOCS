@@ -2,7 +2,9 @@
 
 * [Laniak Task Manager](README.md)
   * [Setup](laniak-task-manager/setup.md)
-  * [Design](laniak-task-manager/design.md)
+  * [Design](laniak-task-manager/design/README.md)
+    * [High Level Design](laniak-task-manager/design/high-level-design.md)
+    * [App Layout](laniak-task-manager/design/app-layout.md)
   * [Workflow Stages](laniak-task-manager/workflow-stages.md)
   * [Task Board](laniak-task-manager/task-board.md)
   * [Assignments & Verification](laniak-task-manager/assignments-and-verification/README.md)
